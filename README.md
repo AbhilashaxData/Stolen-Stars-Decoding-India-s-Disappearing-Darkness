@@ -48,7 +48,8 @@ Observers may notice a dip in the 2016 data for sites like Araku or Spiti. This 
 * `dark_sky_viirs_timeseries.csv`: The 10 year derived dataset used for the final analysis.
 * `nighttime2.ipynb`: Python notebook containing the GEE extraction logic and Matplotlib visualization.
 * `viirs output b and w magazine version`: High resolution imagery prepared for publication.
-
+* `snowgloweffect.ipynb`: Python notebook containing visualization for the region Ladakh and Spiti capturing the snowglow effects from 2014-2023
+* `snowglow_10year_bw_300dpi`: High resolution black and white visualization proving the seasonal correlation between snowfall and radiance spikes.
 ---
 
 ## 📫 Contact
